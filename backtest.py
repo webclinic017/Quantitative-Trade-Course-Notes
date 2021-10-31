@@ -10,7 +10,8 @@ import matplotlib.pyplot as plt
 import matplotlib
 matplotlib.use('QT5Agg')
 
-# BackTest is the util class for back test usage.
+# BackTest is the util class for back test usage basing on backtrader framework.
+# For backtrader, see details here: https://www.backtrader.com
 # strategy: extended from backtrader.Strategy
 # start: start date of back test.
 # end: end date of back test.
